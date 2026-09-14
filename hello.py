@@ -1,2 +1,2 @@
-print("Hello World from Phan Vo Thanh Ngoc")
+print("Hello World  from NGO NGOC NHAT MINH")
 print("Em la sinh vien UIT")
